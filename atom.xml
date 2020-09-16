@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yuanqi-li.github.io</id>
     <title>yuanqi&apos;s Notesite</title>
-    <updated>2020-09-16T15:24:25.104Z</updated>
+    <updated>2020-09-16T15:25:15.162Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yuanqi-li.github.io"/>
     <link rel="self" href="https://yuanqi-li.github.io/atom.xml"/>
@@ -11,7 +11,7 @@
     <icon>https://yuanqi-li.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, yuanqi&apos;s Notesite</rights>
     <entry>
-        <title type="html"><![CDATA[关于英语发音的问题]]></title>
+        <title type="html"><![CDATA[[英语学习]关于发音的问题]]></title>
         <id>https://yuanqi-li.github.io/yQ5QJtvnh/</id>
         <link href="https://yuanqi-li.github.io/yQ5QJtvnh/">
         </link>
