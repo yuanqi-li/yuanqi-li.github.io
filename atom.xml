@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yuanqi-li.github.io</id>
     <title>yuanqi&apos;s Notesite</title>
-    <updated>2020-09-21T22:25:23.100Z</updated>
+    <updated>2020-09-22T14:12:50.422Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yuanqi-li.github.io"/>
     <link rel="self" href="https://yuanqi-li.github.io/atom.xml"/>
@@ -10,6 +10,25 @@
     <logo>https://yuanqi-li.github.io/images/avatar.png</logo>
     <icon>https://yuanqi-li.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, yuanqi&apos;s Notesite</rights>
+    <entry>
+        <title type="html"><![CDATA[[英语学习]关于句子中的重读问题]]></title>
+        <id>https://yuanqi-li.github.io/GB9BEwXZD/</id>
+        <link href="https://yuanqi-li.github.io/GB9BEwXZD/">
+        </link>
+        <updated>2020-09-22T14:02:19.000Z</updated>
+        <content type="html"><![CDATA[<!-- more -->
+<p>一直觉得美音中所谓的语调（intonation） 其实就是在根据不同的单词重音而变换音高（pitch）而调节的。</p>
+<p>而中国人因为母语原因，虽然每个单字都有四个声调，可一句话里永远只是flat，没有所谓重点音的高低区分。这点很可以理解，因为中文一个单字就是一个音，而英文／好多其他语言不行，一个字（词）由很多音阶构成，这也能表明为什么英文中，在一句话里，语调的存在即合理性了。</p>
+<p>那么美语中，一句话的重点，是要强调实意词。<br>
+例如：实意动词：吃，做，玩，去。。。。。<br>
+实意名词／形容词，副词</p>
+<p>发声规则：<br>
+在读句子时，如果一句话有两个实意词，重读第二个。 如果更多，则重读位置靠后的实意词。<br>
+注意：重读时的语调是拉长音阶，拉高音高，而不需要变换语调（升降调等）</p>
+<p><img src="https://yuanqi-li.github.io/post-images/1600783933309.png" alt="" loading="lazy"><br>
+<img src="https://yuanqi-li.github.io/post-images/1600783940638.png" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[读书笔记]||Atomic Habits_07]]></title>
         <id>https://yuanqi-li.github.io/xIbcujdTi/</id>
@@ -156,21 +175,6 @@ so-called 'rituals of playing music'.</p>
         <updated>2020-09-16T08:35:45.000Z</updated>
         <content type="html"><![CDATA[<p>Hey, I am starting a project aiming for improving my English writing skill. I will constantly write down something whatever I want just as a daily small summary of my current emotional stuff. Let us see after maybe a few times whether I got improved.</p>
 <p>I hate rain, I hate rainy days. I think it probably refers to those depression feelings while I look up the gloomy sky. It triggered the dismal sides of myself and caused me blue. Why couldn't we ultimately find a flawless and tranquil paradise that perfectly matches in both geographical and psychological aspects?</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[读书笔记]||Atomic Habits_02]]></title>
-        <id>https://yuanqi-li.github.io/A7br5guXZ/</id>
-        <link href="https://yuanqi-li.github.io/A7br5guXZ/">
-        </link>
-        <updated>2020-09-15T22:38:46.000Z</updated>
-        <content type="html"><![CDATA[<!-- more -->
-<p>第六章主要讲述环境的影响。这里我想强调氛围感和仪式感的事情。比如说给自己定一个每天练习吉他指弹2小时的任务，但是觉得没有很多动力的时候，可以尝试把吉他摆在客厅的中央，电视的前面。这样每次路过客厅，或者躺在沙发上想要看电视时，明晃晃的吉他在暗示自己，该执行练习任务了，不要忘记。另外就是仪式感的事情，比如说学习，可以把自己的书桌打造成一看到它，就想要埋头读书的氛围，而不是杂乱无章，旁边是吃的，漫画书螺着一堆。。。。图书馆其实就是这个道理，有时候觉得在图书馆学习效率最高，是因为它给自己提供了这样一个良好的仪式感和氛围感，并且周围人都在身边学习，自己想要有这种融入感去参与进去，就自然而然的很少分心了。</p>
-<!-- more -->
-<p><img src="https://yuanqi-li.github.io/post-images/1600209538725.jpg" alt="" loading="lazy"><br>
-<img src="https://yuanqi-li.github.io/post-images/1600209545742.jpg" alt="" loading="lazy"><br>
-<img src="https://yuanqi-li.github.io/post-images/1600209553173.jpg" alt="" loading="lazy"><br>
-<img src="https://yuanqi-li.github.io/post-images/1600209559173.jpg" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
 </feed>
