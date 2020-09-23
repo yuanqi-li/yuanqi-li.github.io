@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yuanqi-li.github.io</id>
     <title>yuanqi&apos;s Notesite</title>
-    <updated>2020-09-22T14:12:50.422Z</updated>
+    <updated>2020-09-23T00:05:22.595Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yuanqi-li.github.io"/>
     <link rel="self" href="https://yuanqi-li.github.io/atom.xml"/>
@@ -10,6 +10,20 @@
     <logo>https://yuanqi-li.github.io/images/avatar.png</logo>
     <icon>https://yuanqi-li.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, yuanqi&apos;s Notesite</rights>
+    <entry>
+        <title type="html"><![CDATA[[读书笔记]||Atomic Habits_08]]></title>
+        <id>https://yuanqi-li.github.io/Sk_kmQdyh/</id>
+        <link href="https://yuanqi-li.github.io/Sk_kmQdyh/">
+        </link>
+        <updated>2020-09-22T23:53:08.000Z</updated>
+        <content type="html"><![CDATA[<!-- more -->
+<p>第十二章作者在表达一个人类惰性的概念。这一点我无比认同，懒惰当然就是我们的一大天性啊！如果可以懒（高效／速成／减少努力）的获得一件事，谁还会想要花费巨大精力投入，走弯路呢？<br>
+所以，如果一个习惯的形成，并不需要过多的精力去参与，那它很快就会根深蒂固的植根在我们的日常生活里。这也能表明为什么刷剧，玩手机使人上瘾，因为这一过程中根本不需要花费太多努力，只是睁开眼盯住屏幕就好。<br>
+那么第三条法则“make it easy” 实际上就是在阐述，如果想养成的习惯很困难－－也就是说做这件事的阻力很大，那我们就需要想办法减少这个阻力，绞尽脑汁，想的idea越多，阻力减少的越大，我们能一直持续做这件事的动力就会越大。<br>
+<img src="https://yuanqi-li.github.io/post-images/1600819505307.jpg" alt="" loading="lazy"><br>
+<img src="https://yuanqi-li.github.io/post-images/1600819514702.jpg" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[英语学习]关于句子中的重读问题]]></title>
         <id>https://yuanqi-li.github.io/GB9BEwXZD/</id>
@@ -165,16 +179,6 @@ so-called 'rituals of playing music'.</p>
 <img src="https://yuanqi-li.github.io/post-images/1600269839982.png" alt="" loading="lazy"><br>
 <img src="https://yuanqi-li.github.io/post-images/1600269848983.png" alt="" loading="lazy"><br>
 <img src="https://yuanqi-li.github.io/post-images/1600269856746.png" alt="" loading="lazy"></p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[rainy days]]></title>
-        <id>https://yuanqi-li.github.io/ebY5ROntj/</id>
-        <link href="https://yuanqi-li.github.io/ebY5ROntj/">
-        </link>
-        <updated>2020-09-16T08:35:45.000Z</updated>
-        <content type="html"><![CDATA[<p>Hey, I am starting a project aiming for improving my English writing skill. I will constantly write down something whatever I want just as a daily small summary of my current emotional stuff. Let us see after maybe a few times whether I got improved.</p>
-<p>I hate rain, I hate rainy days. I think it probably refers to those depression feelings while I look up the gloomy sky. It triggered the dismal sides of myself and caused me blue. Why couldn't we ultimately find a flawless and tranquil paradise that perfectly matches in both geographical and psychological aspects?</p>
 ]]></content>
     </entry>
 </feed>
