@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yuanqi-li.github.io</id>
     <title>yuanqi&apos;s Notesite</title>
-    <updated>2020-09-28T03:39:27.381Z</updated>
+    <updated>2020-09-29T06:57:31.307Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yuanqi-li.github.io"/>
     <link rel="self" href="https://yuanqi-li.github.io/atom.xml"/>
@@ -10,6 +10,26 @@
     <logo>https://yuanqi-li.github.io/images/avatar.png</logo>
     <icon>https://yuanqi-li.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, yuanqi&apos;s Notesite</rights>
+    <entry>
+        <title type="html"><![CDATA[[读书笔记]||Atomic Habits_12]]></title>
+        <id>https://yuanqi-li.github.io/Tm45JTJvz/</id>
+        <link href="https://yuanqi-li.github.io/Tm45JTJvz/">
+        </link>
+        <updated>2020-09-29T06:41:36.000Z</updated>
+        <content type="html"><![CDATA[<!-- more -->
+<p>第十六章讲述了如何使一个习惯长久坚持下去。<br>
+核心观点：过程的可视化。 这样会促使过程变得更加有满足感。</p>
+<p>例如我们用电脑下载文件看到的进度条那样，或者是玩游戏想看到自己的人物角色升级。<br>
+我们可以运用自己的满足感来使一件事情变得更加有趣。</p>
+<p>作者在书中举了一个例子：说有一个人是一个新手证券经纪人，每天雷打不动的找客户打电话。就这样坚持了好久最终职位晋升赚的盆满钵满最后变成了一个人生赢家。这个人的小技巧就是，在自己的办公桌上摆两个盒子，一个装满了曲别针，另一个盒子是空的。每次完成一个电话，就把一个曲别针转移到空盒子里。一直到空盒子装满为止。</p>
+<p>我在想，其实我们生活中有很多可以去进行过程可视化的例子。比如说检测体重，可以做一个表格一直追踪体重的进度变化，平台期到来的时候，可以一路望向之前的减重起点。这样就有更多美好的动力一直坚持下去了。<br>
+又或者是我们可以把这个习惯增加一个奖励机制。比如说完成某某项目的打卡，那么奖励自己＊＊＊礼物。<br>
+这个做法的好处就是，即可以使自己的习惯变得明显，还可以变得有吸引力，也增加了满足感。</p>
+<p>但是，往往完美的计划表也有翻车的时候。我们不可能完美。所以当这个时刻来临的时候，不要让自己的完美主义冲昏头脑，觉得好像突然之间断开了什么链接，整个计划就会被摧毁了一样。 正确的思维是想法如何弥补，如何重回正轨。</p>
+<p><img src="https://yuanqi-li.github.io/post-images/1601362628685.jpg" alt="" loading="lazy"><br>
+<img src="https://yuanqi-li.github.io/post-images/1601362635983.jpg" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[英语学习]关于复合名词的重读问题]]></title>
         <id>https://yuanqi-li.github.io/dyYk0Bzz6/</id>
@@ -153,21 +173,6 @@
 <p>这一章的道理大家都懂，可是真的实际去做的人，恐怕也还在少数，我想，把人和人区分开来的，或许就是日常生活中的‘行动力’吧。加油塑造行动力吧！<br>
 <img src="https://yuanqi-li.github.io/post-images/1600727067892.jpg" alt="" loading="lazy"><br>
 <img src="https://yuanqi-li.github.io/post-images/1600727079791.jpg" alt="" loading="lazy"></p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[turn on my vinyl]]></title>
-        <id>https://yuanqi-li.github.io/4Mkj5v_Qf/</id>
-        <link href="https://yuanqi-li.github.io/4Mkj5v_Qf/">
-        </link>
-        <updated>2020-09-19T05:43:01.000Z</updated>
-        <content type="html"><![CDATA[<!-- more -->
-<p>Recently I have got a new hobby: vinyl collections.<br>
-Talking about vinyl, I used to think that it is quite antique, and probably no one would like to treat it as a valuable item until I realised buying vinyl nowadays is the new black.</p>
-<p>Scrolling through webs, I find tons of delicate gadgets that are thoroughly designed by artists. And for some reason, records are painted in colors even transparent.</p>
-<figure data-type="image" tabindex="1"><img src="https://yuanqi-li.github.io/post-images/1600501054915.png" alt="" loading="lazy"></figure>
-<p>Sounds from my turntable are mild, sometimes dynamic, and sometimes are lo-fi (harmonic distortion). I like the vibes which can be only provided by Lps, that is<br>
-so-called 'rituals of playing music'.</p>
 ]]></content>
     </entry>
 </feed>
