@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yuanqi-li.github.io</id>
     <title>yuanqi&apos;s Notesite</title>
-    <updated>2020-10-07T01:38:59.441Z</updated>
+    <updated>2020-10-13T06:58:05.068Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yuanqi-li.github.io"/>
     <link rel="self" href="https://yuanqi-li.github.io/atom.xml"/>
@@ -10,6 +10,20 @@
     <logo>https://yuanqi-li.github.io/images/avatar.png</logo>
     <icon>https://yuanqi-li.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, yuanqi&apos;s Notesite</rights>
+    <entry>
+        <title type="html"><![CDATA[[GMAT_RC]||内容梳理02]]></title>
+        <id>https://yuanqi-li.github.io/2oMwxYZJW/</id>
+        <link href="https://yuanqi-li.github.io/2oMwxYZJW/">
+        </link>
+        <updated>2020-10-13T05:38:13.000Z</updated>
+        <content type="html"><![CDATA[<!-- more -->
+<p>更新一下最近对于阅读理解的体会。</p>
+<p>昨天在做阅读段落总结时，突然脑海中冒出了一个想法：好像gmat 阅读理解的题完全就是初中／高中语文阅读课的内容啊！ 比如，课上老师会分析行文结构，哪句话表达了作者的观点，哪句话起承转合，哪句话作者提出了论据等等。而我们在分析自己母语的课文时，好像也是这样一步步过来的......  既然自己母语也是这样学起来的，那为何不也像学中文分析课文的思路来分析英文课文呢？</p>
+<p>曼哈顿第三章在说做笔记的方法。在读完一段之后，根据自己的理解，用一些缩略的语言和符号，用较少的文字来概括那一段的核心内容。这样在考阅读的文章大意题的时候，可以完全不用回头重复读文章内容，减少了阅读时间。同样，也可以用中文去总结，总是就是如何方便快速让自己看懂，就用哪种方法。但是注意不要写过多的细节，自己在练习的时候总是无意间写了很多细节处的概括，后来发现最好的解决办法不是一边读文章一边写总结，而是读完一段话的内容再去自己概括做笔记。</p>
+<figure data-type="image" tabindex="1"><img src="https://yuanqi-li.github.io/post-images/1602571803545.png" alt="" loading="lazy"></figure>
+<p>第四章主要详细讲述了rc部分的 general questions，是在问文章大意／段落大意。一般来说这种题目根据自己的总结笔记，看完文章一遍，就可以直接用排除法做题，完全不需要再回过头来看。对于浪费时间模棱两可的题目，最好的解决办法就是，放弃，蒙一个选项，而不是浪费时间，丢了西瓜捡芝麻。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[GMAT_RC]||内容梳理01]]></title>
         <id>https://yuanqi-li.github.io/sN5TpySQc/</id>
@@ -162,25 +176,6 @@
 那么第三条法则“make it easy” 实际上就是在阐述，如果想养成的习惯很困难－－也就是说做这件事的阻力很大，那我们就需要想办法减少这个阻力，绞尽脑汁，想的idea越多，阻力减少的越大，我们能一直持续做这件事的动力就会越大。<br>
 <img src="https://yuanqi-li.github.io/post-images/1600819505307.jpg" alt="" loading="lazy"><br>
 <img src="https://yuanqi-li.github.io/post-images/1600819514702.jpg" alt="" loading="lazy"></p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[英语学习]关于句子中的重读问题]]></title>
-        <id>https://yuanqi-li.github.io/GB9BEwXZD/</id>
-        <link href="https://yuanqi-li.github.io/GB9BEwXZD/">
-        </link>
-        <updated>2020-09-22T14:02:19.000Z</updated>
-        <content type="html"><![CDATA[<!-- more -->
-<p>一直觉得美音中所谓的语调（intonation） 其实就是在根据不同的单词重音而变换音高（pitch）而调节的。</p>
-<p>而中国人因为母语原因，虽然每个单字都有四个声调，可一句话里永远只是flat，没有所谓重点音的高低区分。这点很可以理解，因为中文一个单字就是一个音，而英文／好多其他语言不行，一个字（词）由很多音阶构成，这也能表明为什么英文中，在一句话里，语调的存在即合理性了。</p>
-<p>那么美语中，一句话的重点，是要强调实意词。<br>
-例如：实意动词：吃，做，玩，去。。。。。<br>
-实意名词／形容词，副词</p>
-<p>发声规则：<br>
-在读句子时，如果一句话有两个实意词，重读第二个。 如果更多，则重读位置靠后的实意词。<br>
-注意：重读时的语调是拉长音阶，拉高音高，而不需要变换语调（升降调等）</p>
-<p><img src="https://yuanqi-li.github.io/post-images/1600783933309.png" alt="" loading="lazy"><br>
-<img src="https://yuanqi-li.github.io/post-images/1600783940638.png" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
 </feed>
